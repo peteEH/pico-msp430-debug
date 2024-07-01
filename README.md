@@ -23,5 +23,5 @@ The schematic design for the "Pi Pico MSP430 Debug Probe" demonstrates a thought
 **Power Management:** Features a TPS76301 voltage regulator for stable power delivery, along with an INA228 current/voltage monitor for energy metering and programmable power supply functionality.  
 **Level Shifters:** Employs 74LVC1G07 buffers to ensure proper voltage levels between the Raspberry Pi Pico (3.3V) and the target MSP430 microcontroller (which may operate at different voltages).  
 **External EEPROM:** Optionally includes an external EEPROM (24LC512) for storing code or data.  
-**Headers and Jumpers: **Provides various headers (JP1, JP2, J1, J2) and jumpers (SW1, SW2, SW3, SW4) for configuration and flexibility.  
+**Headers and Jumpers:** Provides various headers (JP1, JP2, J1, J2) and jumpers (SW1, SW2, SW3, SW4) for configuration and flexibility.  
 The design appears to be well-organized and clearly labeled, making it easy to understand and modify. The use of decoupling capacitors throughout the circuit helps to ensure stability and reduce noise. Overall, this schematic design provides a solid foundation for a powerful and adaptable debug probe for MSP430 microcontrollers.
