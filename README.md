@@ -1,7 +1,7 @@
 # pico-msp430-debug
 
 A serial debug/programmer for the MSP430 series MCUs.
-GUI/Programming page: [https://github.com/peteEH/msp430fr-bsl]
+GUI/Programming page: https://github.com/peteEH/msp430fr-bsl
 
 ## Features
 
